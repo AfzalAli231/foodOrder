@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "afzalimdadabro",
+    "MONGO_PASSWORD": "19me19pass",
+    "MONGO_DATABASE": "foodApp",
+    "SENDGRID_KEY": "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"
+  }
+}
